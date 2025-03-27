@@ -43,4 +43,4 @@ Utilização do Azure AI Services para análise de sentimento e extrasão de pal
 Com o container criado dentro do Storage Account, vá no recurso do AI Searchm em Get started conecte o recurso com os dados enviados ao container clicando em Import data.
 
 ### Documentos
-Documentos de exemplo podem ser baixados no [Microsoft Leaning]https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html
+Documentos de exemplo podem ser baixados no [Microsoft Leaning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
